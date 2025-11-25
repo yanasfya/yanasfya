@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ilyana Sofiya — a final-year Computer Science student at Sunway University and a front-end engineer intern at Ryt Bank.
+I'm Yana, a final-year Computer Science student at Sunway University and a front-end engineer intern at Ryt Bank.
 
 I’m passionate about crafting clean, intuitive, and engaging user experiences using React, React Native, and modern web technologies. I love turning ideas into elegant, functional interfaces that people enjoy using.
 
